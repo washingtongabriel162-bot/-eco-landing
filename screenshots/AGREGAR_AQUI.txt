@@ -1,0 +1,12 @@
+Coloca aquí tus 4 screenshots de ECO:
+
+  screenshot1.png — Interfaz principal (ventana completa)
+  screenshot2.png — Avatar 3D animado
+  screenshot3.png — Chat funcionando
+  screenshot4.png — Panel de configuración
+
+Tamaño recomendado: 1280×720 px · Formato: PNG
+Herramienta: Win+Shift+S (Snipping Tool)
+
+Luego reemplaza las tarjetas placeholder en landing/index.html con:
+  <img src="screenshots/screenshot1.png" alt="ECO interfaz">
